@@ -45,7 +45,7 @@ perm = list(itertools.product(lst,repeat=len(lst)))
 print(perm)
 ```
            
-##Задание 5
+## Задание 5
 ```
 
 import itertools
